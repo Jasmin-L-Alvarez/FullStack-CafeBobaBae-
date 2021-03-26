@@ -1,3 +1,7 @@
+![Boba](public/bobacafe.png)
+![Boba2](public/bobacafe2.png)
+
+
 ## Installation
 
 1. Clone repo
