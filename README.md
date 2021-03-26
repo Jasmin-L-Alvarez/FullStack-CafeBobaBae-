@@ -1,5 +1,5 @@
 ![Boba](public/bobacafe.png)
-![Boba2](public/bobacafe2.png)
+![Boba2](public/cafeboba2.png)
 
 
 ## Installation
